@@ -1,0 +1,443 @@
+{
+    "couvert": [
+        {
+            "name": "Pao",
+            "name_gb": "Regional bread",
+            "price": 1,
+            "unit": "€"
+        },
+        {
+            "name": "Azeitona",
+            "name_gb": "Olives",
+            "price": 1,
+            "unit": "€"
+        },
+        {
+            "name": "Manteiga",
+            "name_gb": "Butter",
+            "price": 0.75,
+            "unit": "€"
+        },
+        {
+            "name": "Maionese de Frango",
+            "name_gb": "Chicken mayonnaise",
+            "price": 2.25,
+            "unit": "€"
+        }
+    ],
+    "soups": [
+        {
+            "name": "Sopa de Legumes da Estacao",
+            "name_gb": "Season Vegetable soup",
+            "price": 1.75,
+            "unit": "€"
+        }
+    ],
+    "appetizers": [
+        {
+            "name": "Presunto de porco preto",
+            "name_gb": "Iberian pork prosciutto",
+            "price": 50,
+            "unit": "€/Kg"
+        },
+        {
+            "name": "Cabeca de Xara",
+            "name_gb": "Pork head pudding with spices",
+            "price": 30,
+            "unit": "€/Kg"
+        },
+        {
+            "name": "Torresmos do rissol de porco",
+            "name_gb": "Fried pork rinds",
+            "price": 45,
+            "unit": "€/Kg"
+        },
+        {
+            "name": "Cabeca de Borrego com batata frita",
+            "name_gb": "Lamb head with chips",
+            "price": 8.5,
+            "unit": "€"
+        },
+        {
+            "name": "Cabeca de Borrego com batata frita",
+            "name_gb": "Lamb head with chips",
+            "price": 8.5,
+            "unit": "€"
+        },
+        {
+            "name": "Cabeca de Porco com batata frita",
+            "name_gb": "Pork head with chips",
+            "price": 8.5,
+            "unit": "€"
+        },
+        {
+            "name": "Cachola frita",
+            "name_gb": "Fried pork's heart & liver",
+            "price": 3.75,
+            "unit": "€"
+        },
+        {
+            "name": "Orelha de coentrada",
+            "name_gb": "Pork hear salad with coriander",
+            "price": 3.5,
+            "unit": "€"
+        },
+        {
+            "name": "Queijo tipo Serpa",
+            "name_gb": "Serpa cheese",
+            "price": 50,
+            "unit": "€/Kg"
+        },
+        {
+            "name": "Queijo (ovelha, cabram curado ou fresco - 120 gr.)",
+            "name_gb": "Cheese (sheep, goat, aged or fresh - 120 gr)",
+            "price": 4,
+            "unit": "€"
+        }
+    ],
+    "tapas": [
+        {
+            "name": "Salada de polvo",
+            "name_gb": "Octopus salad",
+            "price": 5,
+            "unit": "€"
+        },
+        {
+            "name": "Salada de ovas",
+            "name_gb": "Fish spawns salad",
+            "price": 5,
+            "unit": "€"
+        },
+        {
+            "name": "Salada de atum",
+            "name_gb": "Tuna salad",
+            "price": 3.75,
+            "unit": "€"
+        },
+        {
+            "name": "Salada de bacalhau com grao",
+            "name_gb": "Mediterranean baked cod with chickpea salad",
+            "price": 4,
+            "unit": "€"
+        },
+        {
+            "name": "Salada de frango com alface e maionese",
+            "name_gb": "Chicken, lettuce and mayonnaise salad",
+            "price": 3.75,
+            "unit": "€"
+        },
+        {
+            "name": "Camarao a 'La Guillo'",
+            "name_gb": "Prawns 'La Guillo'",
+            "price": 6.5,
+            "unit": "€"
+        },
+        {
+            "name": "Moelas em molho de tomate",
+            "name_gb": "Spicy chicken gizzard stew (portuguese style)",
+            "price": 2.5,
+            "unit": "€"
+        },
+        {
+            "name": "Febras de porco 'pica-pau'",
+            "name_gb": "Portuguese style 'pica-pau' with pork meat",
+            "price": 6.5,
+            "unit": "€"
+        },
+        {
+            "name": "Pimentos assados",
+            "name_gb": "Roasted peppers",
+            "price": 2.5,
+            "unit": "€"
+        }
+    ],
+    "grill": [
+        {
+            "name": "Frango 'À Muralha'",
+            "name_gb": "Grilled chicken “Muralha style”",
+            "price": 12,
+            "unit": "€"
+        },
+        {
+            "name": "1/2 Frango 'À Muralha'",
+            "name_gb": "1/2 Grilled chicken “Muralha style”",
+            "price": 6.5,
+            "unit": "€"
+        },
+        {
+            "name": "Febras de porco",
+            "name_gb": "Grilled pork sirloin steaks",
+            "price": 7.5,
+            "unit": "€"
+        },
+        {
+            "name": "Lombinhos",
+            "name_gb": "Grilled pork loin",
+            "price": 8.5,
+            "unit": "€"
+        },
+        {
+            "name": "Entremeada",
+            "name_gb": "Grilled pork lard",
+            "price": 7,
+            "unit": "€"
+        },
+        {
+            "name": "Costeletas de Borrego",
+            "name_gb": "Grilled lamb chops",
+            "price": 10,
+            "unit": "€"
+        },
+        {
+            "name": "Costeletas de Novilho",
+            "name_gb": "Grilled beef ribs",
+            "price": 25,
+            "unit": "€/Kg"
+        },
+        {
+            "name": "Bife da vazia",
+            "name_gb": "Grilled beef sirloin steak",
+            "price": 11.5,
+            "unit": "€"
+        },
+        {
+            "name": "Bife à Portuguesa",
+            "name_gb": "Grilled beef steak 'Portuguese style'",
+            "price": 11.5,
+            "unit": "€"
+        }
+    ],
+    "regionals": [
+        {
+            "name": "Carne de porco à Portuguesa",
+            "name_gb": "Pork 'Portuguese style'",
+            "price": 9.5,
+            "unit": "€"
+        },
+        {
+            "name": "Carne de porco à Alentejana",
+            "name_gb": "Pork and clams 'Alentejo style'",
+            "price": 10,
+            "unit": "€"
+        },
+        {
+            "name": "Açorda Alentejana",
+            "name_gb": "Açorda (bread and egg soup with coriander) 'Alentejo style'",
+            "price": 10,
+            "unit": "€"
+        },
+        {
+            "name": "Migas de bacalhau",
+            "name_gb": "Alentejo bread porridge with codfish",
+            "price": 11,
+            "unit": "€"
+        },
+        {
+            "name": "Migas de entrecosto",
+            "name_gb": "Alentejo bread porridge with pork spare ribs",
+            "price": 11,
+            "unit": "€"
+        },
+        {
+            "name": "Sopas de tomate com bacalhau",
+            "name_gb": "Tomato soup with cod",
+            "price": 11,
+            "unit": "€"
+        },
+        {
+            "name": "Sopas de Cação",
+            "name_gb": "Alentejo’s dogfish soup",
+            "price": 11,
+            "unit": "€"
+        }
+    ],
+    "pork": [
+        {
+            "name": "Presa Ibérica ",
+            "name_gb": "Iberian pork 'presa'",
+            "price": 12,
+            "unit": "€"
+        },
+        {
+            "name": "Secretos",
+            "name_gb": "Iberian pork 'secreto'",
+            "price": 10,
+            "unit": "€"
+        },
+        {
+            "name": "Lagartos",
+            "name_gb": "Iberian pork 'lagartos'",
+            "price": 10,
+            "unit": "€"
+        },
+        {
+            "name": "Entrecosto",
+            "name_gb": "Iberian pork spare ribs",
+            "price": 8.5,
+            "unit": "€"
+        },
+        {
+            "name": "Plumas",
+            "name_gb": "Iberian pork 'plumas'",
+            "price": 10,
+            "unit": "€"
+        },
+        {
+            "name": "Costeletas do lombo",
+            "name_gb": "Loin chop",
+            "price": 9,
+            "unit": "€"
+        },
+        {
+            "name": "Costeletas do cachaço",
+            "name_gb": "Neck chop",
+            "price": 8.5,
+            "unit": "€"
+        },
+        {
+            "name": "Espetadas",
+            "name_gb": "Kebab",
+            "price": 10,
+            "unit": "€"
+        },
+        {
+            "name": "Abanicos de porco preto",
+            "name_gb": "Grilled pork steak",
+            "price": 8.5,
+            "unit": "€"
+        }
+    ], 
+    "meat": [
+        {
+            "name": "Picanha",
+            "name_gb": "Brazilian picanha",
+            "price": 11,
+            "unit": "€"
+        },
+        {
+            "name": "Bitoque de porco",
+            "name_gb": "Pork “bitoque” (fried pork steak with fried egg and chips)",
+            "price": 7.5,
+            "unit": "€"
+        },
+        {
+            "name": "Bitoque de vitela",
+            "name_gb": "Veal “bitoque” (fried pork steak with fried egg and chips)",
+            "price": 8.5,
+            "unit": "€"
+        }     
+    ],
+    "fish": [
+        {
+            "name": "Bacalhau com grao",
+            "name_gb": "Baked cod with chickpeas",
+            "price": 9,
+            "unit": "€"
+        },
+        {
+            "name": "Bacalhau assado",
+            "name_gb": "Chargrilled atlantic cod",
+            "price": 9.5,
+            "unit": "€"
+        },
+        {
+            "name": "Bacalhau à Braz",
+            "name_gb": "Codfish with egg and onions",
+            "price": 8.5,
+            "unit": "€"
+        },
+        {
+            "name": "Chocos grelhados",
+            "name_gb": "Chargrilled whole cuttlefish",
+            "price": 8.5,
+            "unit": "€"
+        },
+        {
+            "name": "Choquinhos fritos",
+            "name_gb": "Fried cuttlefish",
+            "price": 8,
+            "unit": "€"
+        },
+        {
+            "name": "Lulas grelhadas",
+            "name_gb": "Chargrilled whole squid",
+            "price": 8.5,
+            "unit": "€"
+        },
+        {
+            "name": "Peixe espada grelhado",
+            "name_gb": "Chargrilled silver scabbardfish",
+            "price": 8,
+            "unit": "€"
+        },
+        {
+            "name": "Cherne grelhado",
+            "name_gb": "Chargrilled atlantic wreckfish",
+            "price": 10,
+            "unit": "€"
+        },
+        {
+            "name": "Arroz de tamboril (2 pessoas)",
+            "name_gb": "Monkfish rice pot stew (for two)",
+            "price": 22,
+            "unit": "€"
+        }
+    ],
+    "desserts": [
+        {
+            "name": "Baba de camelo",
+            "name_gb": "Caramel mousse",
+            "price": 2,
+            "unit": "€"
+        },
+        {
+            "name": "Bolo de bolacha",
+            "name_gb": "Cookie cake",
+            "price": 2,
+            "unit": "€"
+        },
+        {
+            "name": "Doce da casa",
+            "name_gb": "House special",
+            "price": 2,
+            "unit": "€"
+        },
+        {
+            "name": "Mousse de chocolate",
+            "name_gb": "Chocolate mousse",
+            "price": 2,
+            "unit": "€"
+        },
+        {
+            "name": "Pudim Molotof",
+            "name_gb": "Molotov flan",
+            "price": 2,
+            "unit": "€"
+        },
+        {
+            "name": "Pudim Flan",
+            "name_gb": "Flan",
+            "price": 2,
+            "unit": "€"
+        },
+        {
+            "name": "Pudim de requeijão",
+            "name_gb": "Curd pudding",
+            "price": 2.5,
+            "unit": "€"
+        },
+        {
+            "name": "Pudim de vinho do Porto",
+            "name_gb": "Port wine pudding",
+            "price": 2.5,
+            "unit": "€"
+        },
+        {
+            "name": "Pudim de mel",
+            "name_gb": "Honey flan",
+            "price": 2.5,
+            "unit": "€"
+        }
+    ]
+
+}

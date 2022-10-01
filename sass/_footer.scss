@@ -2,3 +2,20 @@
     padding: 1.5rem;
     text-align: center;
 }
+
+.footer__link {
+    color: $color-font;
+    position: relative;
+    text-decoration: none;
+
+    &::after {
+        border-bottom: 1px dotted $color-font;
+        bottom: -2px;
+        content: '';
+        display: inline-block;
+        left: 0;
+        position: absolute;
+        width: 100%;
+    }
+
+}

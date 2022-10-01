@@ -34,7 +34,7 @@ body {
 .menu__title, 
 .menu__subtitle {
     color: $color-font;
-    font-size: 2.4rem;
+    font-size: 1.8rem;
     font-weight: 700;
     text-align: center;
 }
@@ -42,7 +42,7 @@ body {
 .menu__subtitle {
     font-size: 1.5rem;
     font-weight: 400;
-    margin-bottom: 1.5rem;
+    margin-bottom: 3rem;
     opacity: .7;
 }
 
@@ -72,7 +72,7 @@ body {
 }
 
 .item__name {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
 }
 
 .item__name-eng {
@@ -82,6 +82,6 @@ body {
 }
 
 .item__cost {
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin-left: auto;
 }
